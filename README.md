@@ -5,15 +5,4 @@ talla rombos concéntricos dibujados con los caracteres '@', 'o' y'.'.
 
 - Ejemplo de salida para lado 6:
 
-¿Lado del Rombo?6
-     @     
-    @.@    
-   @.o.@   
-  @.o.o.@  
- @.o.@.o.@ 
-@.o.@.@.o.@
- @.o.@.o.@ 
-  @.o.o.@  
-   @.o.@   
-    @.@    
-     @     
+<img width="166" alt="Salida por pantalla para rombo de lado 6" src="https://github.com/santistockcode/practica-tema-6-uned/assets/99286126/a14592ae-b617-46eb-871d-dfd8633d92fa">
